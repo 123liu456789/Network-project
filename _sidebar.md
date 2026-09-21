@@ -1,4 +1,4 @@
 - [首页](head.md)
 - [网安实训项目](security-practice.md)
 - [企业网搭建实训项目](Enterprise-Network-Design.md)
-- [eNSP毕设笔记](ensp-report.md)
+- [eNSP毕业设计](ensp-report.md)
